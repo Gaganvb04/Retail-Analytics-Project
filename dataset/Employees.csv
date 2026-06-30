@@ -1,0 +1,201 @@
+Employee_ID,Employee_Name,Region,Team,Sales_Target,Hire_Date,Email,Performance_Rating
+EMP0001,Ikbal Narula,West,Logistics Ops,430000,2024-03-13,ikbal.narula@retailcorp.com,3.2
+EMP0002,Hemani Gandhi,East,Inside Sales,1140000,2025-11-24,hemani.gandhi@retailcorp.com,3.9
+EMP0003,Faraj Mahal,South,Inside Sales,1120000,2021-12-01,faraj.mahal@retailcorp.com,3.6
+EMP0004,Jeevika Buch,South,Logistics Ops,440000,2026-04-13,jeevika.buch@retailcorp.com,3.5
+EMP0005,Zansi Kumar,South,Customer Success,410000,2022-03-13,zansi.kumar@retailcorp.com,2.0
+EMP0006,Udarsh Chahal,South,Key Accounts,3110000,2023-12-04,udarsh.chahal@retailcorp.com,2.3
+EMP0007,Ekansh Chacko,North,Customer Success,670000,2021-12-31,ekansh.chacko@retailcorp.com,4.5
+EMP0008,Indira Sawhney,North,Sales,1600000,2024-08-16,indira.sawhney@retailcorp.com,3.1
+EMP0009,Riya Natarajan,East,Logistics Ops,420000,2024-02-05,riya.natarajan@retailcorp.com,2.9
+EMP0010,Bhavna Parikh,North,Key Accounts,1970000,2021-01-31,bhavna.parikh@retailcorp.com,2.8
+EMP0011,Mekhala Bahri,West,Key Accounts,2850000,2020-01-17,mekhala.bahri@retailcorp.com,4.4
+EMP0012,Udant Konda,East,Key Accounts,1360000,2022-07-23,udant.konda@retailcorp.com,1.9
+EMP0013,Umang Rau,East,Key Accounts,2970000,2024-12-12,umang.rau@retailcorp.com,4.5
+EMP0014,Indira Deshmukh,East,Logistics Ops,360000,2020-08-10,indira.deshmukh@retailcorp.com,3.9
+EMP0015,Urvashi Modi,North,Customer Success,750000,2025-10-17,urvashi.modi@retailcorp.com,3.9
+EMP0016,Vamakshi Date,East,Logistics Ops,480000,2022-12-11,vamakshi.date@retailcorp.com,3.5
+EMP0017,Urmi Viswanathan,East,Key Accounts,1930000,2024-03-09,urmi.viswanathan@retailcorp.com,4.0
+EMP0018,Ganga Kunda,North,Customer Success,570000,2023-12-12,ganga.kunda@retailcorp.com,2.9
+EMP0019,Chakradev Yohannan,West,Logistics Ops,490000,2021-07-08,chakradev.yohannan@retailcorp.com,3.9
+EMP0020,Netra Gala,Central,Key Accounts,2550000,2024-03-10,netra.gala@retailcorp.com,3.4
+EMP0021,Adweta Dube,West,Customer Success,620000,2021-06-01,adweta.dube@retailcorp.com,2.8
+EMP0022,Lopa Balay,North,Logistics Ops,450000,2022-12-03,lopa.balay@retailcorp.com,2.3
+EMP0023,Ojasvi Kala,North,Key Accounts,1810000,2026-01-24,ojasvi.kala@retailcorp.com,3.1
+EMP0024,Omaja Handa,West,Sales,1660000,2021-07-26,omaja.handa@retailcorp.com,2.7
+EMP0025,Raghav Verma,Central,Customer Success,530000,2026-02-03,raghav.verma@retailcorp.com,3.7
+EMP0026,Ubika Vora,East,Inside Sales,1050000,2024-11-19,ubika.vora@retailcorp.com,3.0
+EMP0027,Yadavi Bal,East,Key Accounts,2330000,2022-07-31,yadavi.bal@retailcorp.com,3.6
+EMP0028,Triveni Parmer,Central,Customer Success,550000,2025-08-09,triveni.parmer@retailcorp.com,2.2
+EMP0029,Elijah Kari,West,Customer Success,530000,2025-07-24,elijah.kari@retailcorp.com,3.1
+EMP0030,Parth Khosla,Central,Logistics Ops,490000,2024-01-11,parth.khosla@retailcorp.com,2.2
+EMP0031,Jhalak Bhat,West,Sales,1260000,2023-03-25,jhalak.bhat@retailcorp.com,3.3
+EMP0032,Viraj Yohannan,East,Logistics Ops,480000,2025-07-10,viraj.yohannan@retailcorp.com,3.1
+EMP0033,Rachita Kala,South,Key Accounts,2210000,2025-09-05,rachita.kala@retailcorp.com,3.1
+EMP0034,Upadhriti Nagi,Central,Logistics Ops,440000,2024-09-03,upadhriti.nagi@retailcorp.com,3.4
+EMP0035,Vincent Bail,West,Sales,1700000,2023-08-20,vincent.bail@retailcorp.com,2.7
+EMP0036,Anmol Lata,North,Logistics Ops,400000,2020-06-14,anmol.lata@retailcorp.com,4.0
+EMP0037,Yagnesh Sundaram,West,Key Accounts,2790000,2023-09-21,yagnesh.sundaram@retailcorp.com,3.0
+EMP0038,Lohit Trivedi,North,Customer Success,660000,2024-06-04,lohit.trivedi@retailcorp.com,3.7
+EMP0039,Harini Radhakrishnan,North,Sales,1920000,2022-05-05,harini.radhakrishnan@retailcorp.com,3.6
+EMP0040,Peter Modi,Central,Key Accounts,1690000,2020-08-05,peter.modi@retailcorp.com,2.9
+EMP0041,Sara Baral,East,Key Accounts,3050000,2023-08-12,sara.baral@retailcorp.com,2.9
+EMP0042,Amaira Dara,Central,Key Accounts,2030000,2021-05-14,amaira.dara@retailcorp.com,4.5
+EMP0043,Chaaya Dhillon,South,Inside Sales,1180000,2024-07-14,chaaya.dhillon@retailcorp.com,3.6
+EMP0044,Aayush Mane,North,Key Accounts,1900000,2025-11-19,aayush.mane@retailcorp.com,2.6
+EMP0045,Krishna Saxena,South,Key Accounts,2390000,2024-05-24,krishna.saxena@retailcorp.com,2.7
+EMP0046,Mitesh Merchant,East,Sales,1780000,2025-01-25,mitesh.merchant@retailcorp.com,3.7
+EMP0047,Samesh Sood,South,Logistics Ops,370000,2020-04-28,samesh.sood@retailcorp.com,2.9
+EMP0048,Ojas Contractor,North,Customer Success,650000,2026-03-22,ojas.contractor@retailcorp.com,2.0
+EMP0049,Nitesh Deo,East,Sales,1350000,2021-09-28,nitesh.deo@retailcorp.com,4.5
+EMP0050,Kevin Khosla,West,Sales,1300000,2026-01-17,kevin.khosla@retailcorp.com,4.1
+EMP0051,Naveen Roy,Central,Customer Success,650000,2022-03-14,naveen.roy@retailcorp.com,3.2
+EMP0052,Ucchal Golla,North,Key Accounts,2980000,2021-06-29,ucchal.golla@retailcorp.com,4.1
+EMP0053,Onveer Kumar,North,Logistics Ops,500000,2026-01-16,onveer.kumar@retailcorp.com,3.0
+EMP0054,Vansha Mall,West,Sales,1410000,2020-09-22,vansha.mall@retailcorp.com,2.8
+EMP0055,Henry Borra,North,Customer Success,620000,2021-02-19,henry.borra@retailcorp.com,3.8
+EMP0056,Tanveer Dass,West,Key Accounts,2440000,2020-10-03,tanveer.dass@retailcorp.com,2.3
+EMP0057,Shaurya Narasimhan,East,Key Accounts,2160000,2023-05-11,shaurya.narasimhan@retailcorp.com,3.9
+EMP0058,Tripti Misra,Central,Key Accounts,2510000,2022-05-21,tripti.misra@retailcorp.com,2.9
+EMP0059,Yash Majumdar,North,Key Accounts,2330000,2026-04-30,yash.majumdar@retailcorp.com,2.0
+EMP0060,Manan Gour,Central,Inside Sales,850000,2023-08-24,manan.gour@retailcorp.com,3.5
+EMP0061,Pahal Vig,South,Customer Success,510000,2025-03-10,pahal.vig@retailcorp.com,3.4
+EMP0062,Warinder Bhavsar,West,Logistics Ops,490000,2023-03-22,warinder.bhavsar@retailcorp.com,3.8
+EMP0063,Widisha Madan,Central,Key Accounts,2970000,2025-06-22,widisha.madan@retailcorp.com,2.9
+EMP0064,Zinal Ramakrishnan,Central,Inside Sales,1200000,2025-09-10,zinal.ramakrishnan@retailcorp.com,2.2
+EMP0065,Jeevika Prasad,Central,Customer Success,590000,2023-07-13,jeevika.prasad@retailcorp.com,3.5
+EMP0066,Jai Kashyap,Central,Key Accounts,2520000,2022-07-08,jai.kashyap@retailcorp.com,3.0
+EMP0067,Aishani Kari,West,Customer Success,620000,2021-10-02,aishani.kari@retailcorp.com,3.3
+EMP0068,Lavanya Borah,North,Key Accounts,2700000,2021-10-08,lavanya.borah@retailcorp.com,3.2
+EMP0069,Ranveer Kothari,Central,Customer Success,630000,2021-11-12,ranveer.kothari@retailcorp.com,4.3
+EMP0070,Triveni Radhakrishnan,East,Customer Success,730000,2023-11-28,triveni.radhakrishnan@retailcorp.com,2.8
+EMP0071,Netra Deol,South,Logistics Ops,390000,2022-02-07,netra.deol@retailcorp.com,3.6
+EMP0072,Geetika Balasubramanian,South,Customer Success,580000,2023-09-18,geetika.balasubramanian@retailcorp.com,3.3
+EMP0073,Agastya Bassi,East,Key Accounts,2230000,2020-01-24,agastya.bassi@retailcorp.com,3.8
+EMP0074,Radha Guha,Central,Inside Sales,710000,2025-12-16,radha.guha@retailcorp.com,2.2
+EMP0075,Mugdha Das,West,Key Accounts,2350000,2020-05-16,mugdha.das@retailcorp.com,3.6
+EMP0076,Chatresh Sachar,South,Key Accounts,2190000,2021-06-04,chatresh.sachar@retailcorp.com,4.5
+EMP0077,Pranav Warrior,Central,Logistics Ops,390000,2020-10-31,pranav.warrior@retailcorp.com,3.0
+EMP0078,Ishita Chander,South,Logistics Ops,380000,2020-05-09,ishita.chander@retailcorp.com,3.6
+EMP0079,Noah Sule,West,Inside Sales,1120000,2021-07-06,noah.sule@retailcorp.com,3.2
+EMP0080,Varenya Deshmukh,Central,Customer Success,610000,2025-12-15,varenya.deshmukh@retailcorp.com,3.0
+EMP0081,Barkha Pradhan,West,Logistics Ops,330000,2021-05-17,barkha.pradhan@retailcorp.com,2.9
+EMP0082,Falguni Prasad,East,Inside Sales,850000,2023-11-07,falguni.prasad@retailcorp.com,3.3
+EMP0083,Gopal Yohannan,Central,Logistics Ops,480000,2025-06-19,gopal.yohannan@retailcorp.com,3.9
+EMP0084,Chavvi Gill,North,Customer Success,370000,2022-11-01,chavvi.gill@retailcorp.com,3.0
+EMP0085,Ekta Murthy,South,Customer Success,800000,2020-12-13,ekta.murthy@retailcorp.com,3.7
+EMP0086,Ojas Swaminathan,North,Sales,1270000,2025-11-23,ojas.swaminathan@retailcorp.com,2.1
+EMP0087,Karan Divan,North,Customer Success,420000,2021-03-09,karan.divan@retailcorp.com,3.0
+EMP0088,Ansh Nigam,West,Inside Sales,1070000,2020-08-16,ansh.nigam@retailcorp.com,2.8
+EMP0089,Prisha Basu,East,Inside Sales,1130000,2025-11-10,prisha.basu@retailcorp.com,3.0
+EMP0090,Gauri Sur,East,Key Accounts,2450000,2022-10-19,gauri.sur@retailcorp.com,3.3
+EMP0091,Dayita Zachariah,North,Customer Success,570000,2024-02-23,dayita.zachariah@retailcorp.com,3.9
+EMP0092,Wriddhish Loke,East,Customer Success,560000,2021-11-11,wriddhish.loke@retailcorp.com,3.2
+EMP0093,Amol Tandon,Central,Sales,1740000,2021-08-08,amol.tandon@retailcorp.com,3.8
+EMP0094,Qarin Bakshi,West,Customer Success,720000,2024-06-03,qarin.bakshi@retailcorp.com,4.2
+EMP0095,Ojas Hans,Central,Logistics Ops,470000,2026-02-24,ojas.hans@retailcorp.com,2.5
+EMP0096,Chaman Swaminathan,South,Key Accounts,2460000,2026-02-07,chaman.swaminathan@retailcorp.com,3.1
+EMP0097,Zilmil Cheema,North,Inside Sales,1240000,2024-09-04,zilmil.cheema@retailcorp.com,2.9
+EMP0098,Krish Naik,East,Inside Sales,1050000,2021-10-25,krish.naik@retailcorp.com,3.2
+EMP0099,Jagvi Thakkar,West,Logistics Ops,450000,2024-02-16,jagvi.thakkar@retailcorp.com,3.9
+EMP0100,Tanvi Naik,East,Customer Success,520000,2021-09-12,tanvi.naik@retailcorp.com,2.8
+EMP0101,Yashodhara Virk,North,Inside Sales,1040000,2025-12-23,yashodhara.virk@retailcorp.com,2.6
+EMP0102,Anjali Sarma,East,Key Accounts,2760000,2025-12-16,anjali.sarma@retailcorp.com,3.6
+EMP0103,Yashawini Contractor,West,Key Accounts,2280000,2021-12-28,yashawini.contractor@retailcorp.com,2.8
+EMP0104,Henry Jha,West,Key Accounts,3430000,2022-12-04,henry.jha@retailcorp.com,3.8
+EMP0105,Devansh Reddy,West,Logistics Ops,410000,2020-06-19,devansh.reddy@retailcorp.com,3.0
+EMP0106,Benjamin Dhar,East,Logistics Ops,400000,2025-08-12,benjamin.dhar@retailcorp.com,1.0
+EMP0107,Advay Bhattacharyya,East,Key Accounts,2600000,2024-04-10,advay.bhattacharyya@retailcorp.com,2.8
+EMP0108,Ikshita D’Alia,North,Logistics Ops,390000,2021-08-31,ikshita.d’alia@retailcorp.com,3.3
+EMP0109,Upma Sem,West,Key Accounts,2180000,2025-01-05,upma.sem@retailcorp.com,3.7
+EMP0110,Dalaja Batta,South,Sales,1310000,2021-03-29,dalaja.batta@retailcorp.com,2.6
+EMP0111,Kashvi Biswas,North,Sales,1990000,2024-03-15,kashvi.biswas@retailcorp.com,3.2
+EMP0112,Maanav Chahal,South,Customer Success,570000,2022-01-06,maanav.chahal@retailcorp.com,2.5
+EMP0113,Ekanta Om,Central,Key Accounts,2070000,2020-05-23,ekanta.om@retailcorp.com,2.5
+EMP0114,Anika Ramesh,South,Key Accounts,2070000,2022-01-14,anika.ramesh@retailcorp.com,3.1
+EMP0115,Fariq Dora,North,Key Accounts,2000000,2021-07-02,fariq.dora@retailcorp.com,2.5
+EMP0116,Bakhshi Ravel,South,Customer Success,590000,2026-01-31,bakhshi.ravel@retailcorp.com,2.9
+EMP0117,Victor Sekhon,East,Sales,1610000,2025-04-06,victor.sekhon@retailcorp.com,3.7
+EMP0118,Nandini Chahal,East,Key Accounts,3310000,2024-05-21,nandini.chahal@retailcorp.com,3.3
+EMP0119,Nidra Sem,South,Inside Sales,900000,2020-04-10,nidra.sem@retailcorp.com,4.4
+EMP0120,Frado Krishnamurthy,West,Logistics Ops,430000,2023-07-22,frado.krishnamurthy@retailcorp.com,2.8
+EMP0121,Siddharth Raval,North,Key Accounts,2790000,2020-10-12,siddharth.raval@retailcorp.com,4.5
+EMP0122,Umang Rama,South,Sales,1640000,2021-12-18,umang.rama@retailcorp.com,3.9
+EMP0123,Xalak Vala,West,Key Accounts,2230000,2021-08-21,xalak.vala@retailcorp.com,4.9
+EMP0124,Unni Chaudhry,West,Logistics Ops,390000,2020-09-18,unni.chaudhry@retailcorp.com,3.0
+EMP0125,Daksh Lall,East,Inside Sales,920000,2024-04-21,daksh.lall@retailcorp.com,3.6
+EMP0126,Kashvi Dalal,East,Inside Sales,1120000,2020-03-01,kashvi.dalal@retailcorp.com,3.8
+EMP0127,Mugdha Parmar,West,Inside Sales,940000,2023-05-29,mugdha.parmar@retailcorp.com,2.5
+EMP0128,Eesha Taneja,Central,Sales,1390000,2024-02-24,eesha.taneja@retailcorp.com,2.8
+EMP0129,Ayushman Mistry,Central,Key Accounts,2200000,2023-11-08,ayushman.mistry@retailcorp.com,3.9
+EMP0130,Falguni Wali,North,Inside Sales,1100000,2022-01-26,falguni.wali@retailcorp.com,3.7
+EMP0131,Fitan Oommen,East,Inside Sales,900000,2022-04-07,fitan.oommen@retailcorp.com,3.8
+EMP0132,Henry Bahri,West,Customer Success,590000,2025-09-01,henry.bahri@retailcorp.com,3.4
+EMP0133,Aachal Kanda,East,Key Accounts,2130000,2024-11-06,aachal.kanda@retailcorp.com,3.9
+EMP0134,Rohan Raghavan,North,Customer Success,610000,2021-07-14,rohan.raghavan@retailcorp.com,1.7
+EMP0135,Zashil Balay,West,Logistics Ops,440000,2024-07-25,zashil.balay@retailcorp.com,3.0
+EMP0136,Baljiwan Tank,West,Customer Success,560000,2026-03-25,baljiwan.tank@retailcorp.com,3.1
+EMP0137,Dakshesh Ramesh,West,Key Accounts,2240000,2022-02-14,dakshesh.ramesh@retailcorp.com,3.1
+EMP0138,Harish Mani,Central,Customer Success,640000,2023-12-22,harish.mani@retailcorp.com,3.1
+EMP0139,Chandran Sahni,West,Logistics Ops,430000,2025-02-13,chandran.sahni@retailcorp.com,3.7
+EMP0140,Banjeet Rajagopalan,North,Sales,1480000,2022-07-04,banjeet.rajagopalan@retailcorp.com,4.3
+EMP0141,Ikshita Swamy,Central,Logistics Ops,390000,2025-05-11,ikshita.swamy@retailcorp.com,3.1
+EMP0142,Nitesh Choudhry,South,Logistics Ops,490000,2023-09-10,nitesh.choudhry@retailcorp.com,3.0
+EMP0143,Chameli Banik,Central,Key Accounts,2120000,2024-08-03,chameli.banik@retailcorp.com,3.6
+EMP0144,Qasim Tiwari,Central,Customer Success,630000,2023-08-04,qasim.tiwari@retailcorp.com,3.4
+EMP0145,Aachal Sunder,East,Sales,890000,2022-07-19,aachal.sunder@retailcorp.com,3.3
+EMP0146,Vidhi Kulkarni,Central,Key Accounts,2260000,2022-03-05,vidhi.kulkarni@retailcorp.com,2.8
+EMP0147,Gautam Sha,South,Sales,1240000,2023-01-08,gautam.sha@retailcorp.com,3.7
+EMP0148,Wazir Shenoy,East,Customer Success,490000,2025-10-06,wazir.shenoy@retailcorp.com,2.8
+EMP0149,Xiti Lanka,West,Sales,1460000,2023-10-21,xiti.lanka@retailcorp.com,3.2
+EMP0150,Veda Garde,Central,Logistics Ops,430000,2025-02-28,veda.garde@retailcorp.com,3.3
+EMP0151,Veer Rau,West,Inside Sales,810000,2024-03-03,veer.rau@retailcorp.com,2.7
+EMP0152,Urishilla Nagar,South,Key Accounts,2820000,2023-05-10,urishilla.nagar@retailcorp.com,3.3
+EMP0153,Rushil Mistry,North,Key Accounts,2100000,2020-12-09,rushil.mistry@retailcorp.com,3.7
+EMP0154,Avi Kaul,West,Customer Success,610000,2024-12-10,avi.kaul@retailcorp.com,3.3
+EMP0155,Gautam Hayre,South,Sales,1360000,2025-01-31,gautam.hayre@retailcorp.com,3.3
+EMP0156,Pallavi Zacharia,East,Customer Success,550000,2025-05-23,pallavi.zacharia@retailcorp.com,3.4
+EMP0157,Mohammed Chawla,Central,Logistics Ops,480000,2021-11-25,mohammed.chawla@retailcorp.com,2.7
+EMP0158,Kiaan Subramaniam,East,Sales,1270000,2024-09-29,kiaan.subramaniam@retailcorp.com,3.1
+EMP0159,Ayaan Krish,South,Inside Sales,1130000,2025-05-26,ayaan.krish@retailcorp.com,2.3
+EMP0160,Karan Bhatnagar,West,Customer Success,580000,2022-07-14,karan.bhatnagar@retailcorp.com,4.9
+EMP0161,Hredhaan Patla,North,Logistics Ops,250000,2020-02-29,hredhaan.patla@retailcorp.com,3.4
+EMP0162,Udyati Mane,East,Sales,1840000,2024-05-19,udyati.mane@retailcorp.com,2.7
+EMP0163,Anirudh Srinivas,North,Sales,1330000,2022-07-08,anirudh.srinivas@retailcorp.com,3.2
+EMP0164,Eiravati Kari,East,Customer Success,510000,2022-04-27,eiravati.kari@retailcorp.com,3.0
+EMP0165,Chakradhar Vaidya,West,Customer Success,650000,2021-04-01,chakradhar.vaidya@retailcorp.com,3.9
+EMP0166,Diya Trivedi,West,Inside Sales,1070000,2023-02-21,diya.trivedi@retailcorp.com,3.3
+EMP0167,Gaurika Anne,West,Logistics Ops,400000,2025-11-01,gaurika.anne@retailcorp.com,3.5
+EMP0168,Ojas Mani,Central,Inside Sales,1070000,2024-02-22,ojas.mani@retailcorp.com,3.7
+EMP0169,Anirudh Borra,South,Inside Sales,910000,2020-08-10,anirudh.borra@retailcorp.com,3.6
+EMP0170,Yuvraj Om,West,Sales,1660000,2021-07-20,yuvraj.om@retailcorp.com,2.9
+EMP0171,Laksh Chhabra,East,Logistics Ops,390000,2026-02-23,laksh.chhabra@retailcorp.com,2.8
+EMP0172,Amol Sundaram,West,Customer Success,460000,2024-04-01,amol.sundaram@retailcorp.com,4.0
+EMP0173,Shravya Swamy,South,Sales,1520000,2024-02-12,shravya.swamy@retailcorp.com,3.2
+EMP0174,Bahadurjit Chad,North,Customer Success,680000,2023-07-23,bahadurjit.chad@retailcorp.com,3.6
+EMP0175,Azaan Doshi,South,Inside Sales,610000,2020-02-05,azaan.doshi@retailcorp.com,4.7
+EMP0176,Yamini Jain,North,Inside Sales,1070000,2025-04-03,yamini.jain@retailcorp.com,3.0
+EMP0177,Ijaya Goda,South,Key Accounts,2730000,2021-08-17,ijaya.goda@retailcorp.com,3.8
+EMP0178,Forum Kadakia,East,Sales,1510000,2021-08-01,forum.kadakia@retailcorp.com,4.2
+EMP0179,Rajata Mane,Central,Logistics Ops,410000,2025-09-20,rajata.mane@retailcorp.com,3.0
+EMP0180,Vyanjana Varghese,East,Key Accounts,2530000,2020-08-23,vyanjana.varghese@retailcorp.com,3.1
+EMP0181,Saumya Sachar,East,Key Accounts,2180000,2020-11-22,saumya.sachar@retailcorp.com,3.6
+EMP0182,Ayaan Bandi,Central,Sales,1550000,2021-10-12,ayaan.bandi@retailcorp.com,3.7
+EMP0183,Damyanti Kalita,Central,Sales,1060000,2024-01-08,damyanti.kalita@retailcorp.com,4.2
+EMP0184,Damini Randhawa,North,Inside Sales,820000,2024-01-25,damini.randhawa@retailcorp.com,3.2
+EMP0185,Alexander Bhardwaj,West,Sales,1550000,2021-06-12,alexander.bhardwaj@retailcorp.com,2.8
+EMP0186,Rohan Behl,Central,Inside Sales,1010000,2021-04-06,rohan.behl@retailcorp.com,3.8
+EMP0187,Dhruv Sane,Central,Logistics Ops,380000,2023-10-05,dhruv.sane@retailcorp.com,4.6
+EMP0188,Madhavi Lall,Central,Sales,2100000,2021-08-23,madhavi.lall@retailcorp.com,3.1
+EMP0189,Edhitha Deep,South,Customer Success,520000,2025-01-10,edhitha.deep@retailcorp.com,3.7
+EMP0190,Laban Sha,South,Logistics Ops,470000,2021-04-03,laban.sha@retailcorp.com,3.7
+EMP0191,Umang Kaur,South,Customer Success,610000,2024-01-17,umang.kaur@retailcorp.com,3.3
+EMP0192,Vihaan Bobal,East,Sales,1840000,2026-04-05,vihaan.bobal@retailcorp.com,2.4
+EMP0193,Samesh Tailor,Central,Logistics Ops,350000,2022-10-21,samesh.tailor@retailcorp.com,3.6
+EMP0194,Sachi Halder,South,Sales,1050000,2024-09-30,sachi.halder@retailcorp.com,3.8
+EMP0195,Mahika Gera,North,Key Accounts,2660000,2022-08-22,mahika.gera@retailcorp.com,2.5
+EMP0196,Pranav Bir,East,Sales,1370000,2024-02-18,pranav.bir@retailcorp.com,4.3
+EMP0197,Gautam Wadhwa,East,Sales,1220000,2026-01-15,gautam.wadhwa@retailcorp.com,2.5
+EMP0198,Sachi Munshi,East,Inside Sales,1160000,2026-02-10,sachi.munshi@retailcorp.com,2.8
+EMP0199,Rachana Sengupta,South,Customer Success,700000,2020-01-07,rachana.sengupta@retailcorp.com,3.3
+EMP0200,Niharika Gour,East,Key Accounts,2620000,2021-08-10,niharika.gour@retailcorp.com,4.1
